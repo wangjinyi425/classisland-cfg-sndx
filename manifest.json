@@ -1,0 +1,24 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "上海市上南东校",
+    "ClassPlanSource": {
+        "Value": "https://raw.bgithub.xyz/wangjinyi425/classisland-cfg-sndx/master/client/{id}/ClassPlans.json",
+        "Version": 2
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.bgithub.xyz/wangjinyi425/classisland-cfg-sndx/master/client/_default/TimeLayout.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.bgithub.xyz/wangjinyi425/classisland-cfg-sndx/master/client/_default/Subjects.json",
+        "Version": 1
+    },
+    "DefaultSettingsSource": {
+        "Value": "https://raw.bgithub.xyz/wangjinyi425/classisland-cfg-sndx/master/client/{id}/Settings.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.bgithub.xyz/wangjinyi425/classisland-cfg-sndx/master/client/{id}/Policy.json",
+        "Version": 2
+    }
+}
